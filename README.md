@@ -10,7 +10,6 @@ This application allows users to upload documents, query them, and download thei
 - `app/chat_history.py`: Handles chat history storage and retrieval.
 - `app/utils.py`: Contains utility functions for text extraction from documents.
 - `app/database.py`: Manages database operations and schema.
-- `Dockerfile`: Defines the Docker image for the application.
 - `requirements.txt`: Lists the Python dependencies required for the application.
 
 ## Database
